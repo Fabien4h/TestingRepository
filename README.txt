@@ -16,5 +16,5 @@ Where users can get help with your project?
 
 Who maintains and contributes to the project?
 
-	Fabien4h from Quatreohms maintains and contributes to the projet.
+	Fabien4h from Quatreohms maintains and contributes to the project.
 
