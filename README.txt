@@ -12,7 +12,7 @@ How users can get started with the project?
 	
 Where users can get help with your project?
 
-	For the moment, nobody can help with this project.
+	For the moment, I don't know.
 
 Who maintains and contributes to the project?
 
