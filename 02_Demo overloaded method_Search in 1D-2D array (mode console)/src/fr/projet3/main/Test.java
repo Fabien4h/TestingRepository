@@ -7,8 +7,8 @@ import java.util.Scanner;
 * <p>
 * The texts displayed in the console are in French.
 * 
-* @author Fabien Quatrehomme
-* @version 1.0 10/15/24
+* @author Fabien4h
+* @version 1.1 10/15/24
 */
 public class Test {
 
