@@ -9,8 +9,8 @@ import java.util.Scanner;
 * <p>
 * The texts displayed in the console are in French.
 *
-* @author Fabien Quatrehomme
-* @version 1.1 10/14/24
+* @author Fabien4h
+* @version 1.2 10/14/24
 *
 */
 public class Test {
@@ -23,7 +23,6 @@ public class Test {
 	/**
 	 * Constructs a new Test().
 	 * 
-	 * @param 
 	 * @since 0.1
 	 */
 	public Test() {}
